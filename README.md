@@ -177,6 +177,10 @@ These findings suggest that <strong>workload and job satisfaction are major driv
 <h2>Repository Contents</h2>
 <pre><code>salifort-case-study/
 ├── salifort-motors-case-study-python.ipynb
+├── figures
+│   ├── confusion_matrix.png
+│   ├── decision_tree_plot.png
+│   └── feature_importance.png
 └── README.md
 </code></pre>
 
