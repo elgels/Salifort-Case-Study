@@ -51,7 +51,7 @@ The dataset contains approximately <strong>15,000 employee records</strong> and 
 <h2>Methods</h2>
 <p>The analysis followed a standard data science workflow:</p>
 
-<h3>1. Data Exploration and Cleaning</h3>
+<h3>1. Data Cleaning and Exploration</h3>
 <ul>
   <li>Inspected data types and summary statistics.</li>
   <li>Removed duplicate observations.</li>
