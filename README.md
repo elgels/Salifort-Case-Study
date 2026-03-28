@@ -1,4 +1,4 @@
-<h1>Salifort Motors Employee Retention Analysis</h1>
+<h1>Salifort Employee Retention Analysis</h1>
 
 <h2>Project Overview</h2>
 <p>
