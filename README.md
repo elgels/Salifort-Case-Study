@@ -192,7 +192,6 @@ These findings suggest that <strong>workload and job satisfaction are major driv
   <li>seaborn</li>
   <li>matplotlib</li>
   <li>scikit-learn</li>
-  <li>XGBoost</li>
 </ul>
 
 <h2>Project Type</h2>
